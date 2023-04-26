@@ -1,5 +1,5 @@
 # Solving the problem: 
-###English:
+### English:
 Describe the following scenario programmatically using the Command and Observer templates.
 
 An online fitness training session is taking place in which we have the following participants:
@@ -11,7 +11,7 @@ The process goes like this:
 The fitness instructor has prepared two exercises - lie down and stand up, with which he periodically instructs the exerciser.
 Online viewers observe the participant exercising and when he changes his position they change theirs as well.
 
-###Bulgarian:
+### Bulgarian:
 Опишете програмно следния сценарий като използвате шаблоните Command и Observer.
 
 Провежда се онлайн фитнес тренировка, в която имаме следните участници:
